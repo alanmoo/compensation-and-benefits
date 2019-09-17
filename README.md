@@ -48,6 +48,7 @@
   - Vision
   - Life insurance
     - Accidental Death and Dismemberment (AD&D) Insurance
+  - Wellness Plan (gym, bike equipment, massages, etc)
   - Do these extend to family?
 - Education
   - Training
